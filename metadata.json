@@ -1,0 +1,6 @@
+{
+  "name": "Учет Рабочего Времени",
+  "description": "Сервис для загрузки отчетов СКУД в формате Excel, автоматического расчета опозданий, ранних уходов, обедов и генерации итогового форматированного Excel-отчета.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
